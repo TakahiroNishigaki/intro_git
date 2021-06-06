@@ -1,3 +1,4 @@
 i start git.
 Git add.
 Git commit.
+Git rm.
